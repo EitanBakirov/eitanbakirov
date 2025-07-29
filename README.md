@@ -1,8 +1,7 @@
-<h1 align="center">Hi 👋, I'm Eitan Bakirov</h1>
-<h3 align="center">A Data Scientist passionate about transforming complex data into actionable insights and solving real-world problems</h3>
+<h1 align="left">Hi 👋, I'm Eitan Bakirov</h1>
+<h3 align="left">A Data Scientist passionate about transforming complex data into actionable insights and solving real-world problems</h3>
 
 I focus on machine learning, deep learning, and data analysis, with hands-on experience in developing AI-powered solutions and data-driven applications.
-
 Currently exploring new challenges in AI and data science, while continuously expanding my technical expertise.
 
 
