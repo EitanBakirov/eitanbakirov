@@ -9,7 +9,7 @@ Currently exploring new challenges in AI and data science, while continuously ex
 
 - 👨‍💻 All of my projects are available at [https://eitanbakirov.github.io/](https://eitanbakirov.github.io/)
 
-- 📫 How to reach me **eitanbakirov@gmail.com**
+- 📫 How to reach me **eitanbakirov@gmail.com** or **https://linkedin.com/in/eitan-bakirov**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
