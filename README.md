@@ -5,8 +5,6 @@ I focus on machine learning, deep learning, and data analysis, with hands-on exp
 Currently exploring new challenges in AI and data science, while continuously expanding my technical expertise.
 
 
-- 🌱 I’m currently learning **LLM-powered agent frameworks**
-
 - 👨‍💻 All of my projects are available at [https://eitanbakirov.github.io/](https://eitanbakirov.github.io/)
 
 - 📫 How to reach me **eitanbakirov@gmail.com** or **https://linkedin.com/in/eitan-bakirov**
