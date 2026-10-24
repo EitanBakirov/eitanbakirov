@@ -30,11 +30,12 @@ I'm a data scientist working across **ML models, recommendations, search, and LL
 <table>
   <tr>
     <td colspan="2" valign="top">
-      <a href="https://github.com/codematch-llm"><img src="https://eitanbakirov.github.io/images/projects/code-match/thumbnail.png" alt="CodeMatch application preview" width="180" align="right"></a>
-      <h3><a href="https://github.com/codematch-llm">CodeMatch</a></h3>
+      <a href="https://github.com/codematch-llm"><img src="https://eitanbakirov.github.io/images/projects/code-match/thumbnail.png" alt="CodeMatch logo" width="180" align="right"></a>
+      <h3><a href="https://github.com/codematch-llm/system">CodeMatch</a></h3>
       <p><strong>Checkmarx internship · LLM embeddings and evaluation</strong></p>
-      <p>Contributed code-similarity tooling using LLM embeddings and Qdrant retrieval, a benchmarking pipeline with synthetic datasets and task-specific metrics, and FastAPI/Vue.js application integration.</p>
+      <p>Developed code-similarity tools with LLM embeddings and Qdrant, synthetic-data benchmarks for pairwise comparison and retrieval evaluation, and FastAPI/Vue.js application components.</p>
       <p><code>LLMs</code> <code>Embeddings</code> <code>Qdrant</code> <code>Benchmarking</code> <code>FastAPI</code></p>
+      <p><a href="https://github.com/codematch-llm/system">Application</a> · <a href="https://github.com/codematch-llm/benchmark">Benchmark framework</a></p>
     </td>
   </tr>
   <tr>
