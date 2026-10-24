@@ -40,10 +40,10 @@ I'm a data scientist working across **ML models, recommendations, search, and LL
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/EitanBakirov/codex-cost-dashboard">Codex Cost Dashboard</a></h3>
-      <p><strong>Personal developer tool</strong></p>
-      <p>A local dashboard for inspecting Codex session activity, token usage, model mix, and estimated credit cost. Uses Python's standard library; session data stays on the user's machine.</p>
-      <p><code>Python</code> <code>HTML/CSS/JS</code> <code>Local data</code></p>
+      <h3><a href="https://github.com/EitanBakirov/nyc-uber-demand-prediction">NYC Uber Demand Prediction</a></h3>
+      <p><strong>Academic team project</strong></p>
+      <p>Predicted 15-minute Uber pickup demand near the Empire State Building using historical pickups, weather, events, and taxi activity. Compared linear regression and tree ensembles, training on April–August and evaluating on September 2014.</p>
+      <p><code>Demand prediction</code> <code>Feature engineering</code> <code>CatBoost</code> <code>Temporal evaluation</code></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/EitanBakirov/music-recommendation-system">Music Recommendation System</a></h3>
